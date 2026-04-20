@@ -3,4 +3,4 @@
 This repository contains an implementation for the Finite Element(FE) Feature recognition method proposed in "Finite Element Feature Recognition from 
 CAD Models using Graph Neural Networks"
 
-The code will be released here after the paper has been published.
+The code will be released here after the paper has been accepted.
